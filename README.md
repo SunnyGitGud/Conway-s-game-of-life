@@ -196,5 +196,3 @@ This clean separation makes the simulation easy to understand and expand.
 
 ## 📋 Final Thoughts
 This simulator captures the core beauty of Conway’s Game of Life while staying beginner-friendly in its design. With good abstraction, clean logic, and interactive controls, it’s a solid foundation for deeper explorations into simulations, visualization, and game development.
-
-Let me know if you want a downloadable Markdown or PDF version!
