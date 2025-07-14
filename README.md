@@ -1,5 +1,5 @@
 
-# 2D Generation Simulator - Code Documentation & Explanation
+# Conway's Game of Life - Code Documentation & Explanation
 
 This document explains the complete structure and logic of a 2D cellular automata simulation based on **Conway's Game of Life**, built using C++ and Raylib. It is designed to be easy to follow and serves as a study reference.
 
